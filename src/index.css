@@ -10,3 +10,10 @@
   font-family: "Poppins", sans-serif;
   color-scheme: dark;
 }
+
+@layer components{
+  .gradient{
+    @apply bg-gradient-to-r from-orange-500 to-orange-800;
+  }
+  
+}
