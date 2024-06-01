@@ -5,7 +5,7 @@ import { checklistItems } from '../constants'
 import XlCard from './XlCard'
 const WorkFlow = () => {
   return (
-    <div className='mt-10 lg:mt-20 container w-[95%] mx-auto border-b'>
+    <div className='mt-10 lg:mt-20 container w-[95%] mx-auto border-b border-neutral-800'>
       <h1 className='text-3xl sm:text-5xl lg:text-6xl mt-6 tracking-wide text-center'>
         Accelerate your <span className='gradient text-transparent bg-clip-text'>coding workflow</span>
       </h1>
